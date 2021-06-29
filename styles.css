@@ -68,9 +68,8 @@ button {
 	display: flex;
 	align-items: center;	
 	justify-content: center;
-	padding-top: 4.5rem;	
-	
-	}
+	margin-top: 4rem;
+}
 
 #sedan {
 	background-color: hsl(31, 77%, 52%);
@@ -98,7 +97,7 @@ button {
         float: none; 
         width: 100%;
 		position: relative;
-		padding-top: 0;
+		margin-top: 0;
 	}
 
 	#sedan {
